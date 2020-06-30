@@ -2,6 +2,10 @@
 [![Build Status](https://travis-ci.org/OCA/social.svg?branch=13.0)](https://travis-ci.org/OCA/social)
 [![Coverage Status](https://coveralls.io/repos/OCA/social/badge.svg?branch=13.0)](https://coveralls.io/r/OCA/social?branch=13.0)
 
+# BT Customizations
+Open OCA PRs merged
+- (https://github.com/OCA/social/pull/562) mail_outbound_static
+
 Social addons for Odoo
 ======================
 
