@@ -22,13 +22,14 @@ addon | version | summary
 [base_search_mail_content](base_search_mail_content/) | 14.0.1.0.0 | Base Search Mail Content
 [email_template_qweb](email_template_qweb/) | 14.0.1.0.0 | Use the QWeb templating mechanism for emails
 [mail_attach_existing_attachment](mail_attach_existing_attachment/) | 14.0.1.0.0 | Adding attachment on the object by sending this one
-[mail_debrand](mail_debrand/) | 14.0.1.0.2 | Remove Odoo branding in sent emails Removes anchor <a href odoo.com togheder with it's parent ( for powerd by) form all the templates removes any 'odoo' that are in tempalte texts > 20characters
+[mail_debrand](mail_debrand/) | 14.0.2.0.0 | Remove Odoo branding in sent emails Removes anchor <a href odoo.com togheder with it's parent ( for powerd by) form all the templates removes any 'odoo' that are in tempalte texts > 20characters
 [mail_layout_preview](mail_layout_preview/) | 14.0.1.0.0 | Preview email templates in the browser
 [mail_outbound_static](mail_outbound_static/) | 14.0.1.0.0 | Allows you to configure the from header for a mail server.
 [mail_preview_base](mail_preview_base/) | 14.0.1.0.0 | Base to add more previewing options
 [mail_restrict_send_button](mail_restrict_send_button/) | 14.0.1.0.1 | Security for Send Message Button on Chatter Area
 [mail_send_copy](mail_send_copy/) | 14.0.1.0.1 | Send to you a copy of each mail sent by Odoo
 [mail_tracking](mail_tracking/) | 14.0.1.0.1 | Email tracking system for all mails sent
+[mail_tracking_mass_mailing](mail_tracking_mass_mailing/) | 14.0.1.0.0 | Improve mass mailing email tracking
 [mass_mailing_partner](mass_mailing_partner/) | 14.0.1.0.0 | Link partners with mass-mailing
 
 [//]: # (end addons)
