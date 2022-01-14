@@ -24,6 +24,7 @@ addon | version | maintainers | summary
 [mail_activity_board](mail_activity_board/) | 14.0.1.0.0 |  | Add Activity Boards
 [mail_activity_creator](mail_activity_creator/) | 14.0.1.0.0 |  | Show activities creator
 [mail_activity_partner](mail_activity_partner/) | 14.0.1.0.0 |  | Add Partner to Activities
+[mail_activity_team](mail_activity_team/) | 14.0.1.0.0 |  | Add Teams to Activities
 [mail_allow_portal_internal_note](mail_allow_portal_internal_note/) | 14.0.1.0.0 |  | Portal users can access internal messages related to own or other companies
 [mail_attach_existing_attachment](mail_attach_existing_attachment/) | 14.0.1.0.0 |  | Adding attachment on the object by sending this one
 [mail_attach_existing_attachment_account](mail_attach_existing_attachment_account/) | 14.0.1.0.0 |  | Module to use attach existing attachment for account module
@@ -37,7 +38,7 @@ addon | version | maintainers | summary
 [mail_preview_base](mail_preview_base/) | 14.0.1.0.0 |  | Base to add more previewing options
 [mail_restrict_send_button](mail_restrict_send_button/) | 14.0.1.1.0 |  | Security for Send Message Button on Chatter Area
 [mail_send_copy](mail_send_copy/) | 14.0.1.0.1 |  | Send to you a copy of each mail sent by Odoo
-[mail_tracking](mail_tracking/) | 14.0.2.0.0 |  | Email tracking system for all mails sent
+[mail_tracking](mail_tracking/) | 14.0.2.0.1 |  | Email tracking system for all mails sent
 [mail_tracking_mailgun](mail_tracking_mailgun/) | 14.0.1.0.0 |  | Mail tracking and Mailgun webhooks integration
 [mail_tracking_mass_mailing](mail_tracking_mass_mailing/) | 14.0.1.0.0 |  | Improve mass mailing email tracking
 [mass_mailing_company_newsletter](mass_mailing_company_newsletter/) | 14.0.1.0.0 | [![ivantodorovich](https://github.com/ivantodorovich.png?size=30px)](https://github.com/ivantodorovich) | Easily manage partner's subscriptions to your main mailing list.
