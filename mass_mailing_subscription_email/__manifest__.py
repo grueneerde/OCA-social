@@ -5,7 +5,7 @@
 {
     "name": "Mass Mailing Subscription Email",
     "summary": "Send notification emails when contacts subscription changes.",
-    "version": "14.0.1.0.0",
+    "version": "14.0.1.0.1",
     "author": "Camptocamp, Odoo Community Association (OCA)",
     "maintainers": ["ivantodorovich"],
     "website": "https://github.com/OCA/social",
@@ -16,6 +16,5 @@
         "data/mail_template.xml",
         "views/mailing_list.xml",
     ],
-    "demo": ["demo/mailing_list.xml"],
     "post_init_hook": "post_init_hook",
 }
