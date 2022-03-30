@@ -5,16 +5,18 @@
 {
     "name": "Mail filter adressee by partner contacts and users",
     "summary": "Adresses filter by partner contacts and users",
-    "version": "14.0.1.0.0",
+    "version": "14.0.1.1.0",
     "category": "Social Network",
     "website": "https://github.com/OCA/social",
     "author": "Akretion, Odoo Community Association (OCA)",
+    "maintainers": ["Kev-Roche"],
     "license": "AGPL-3",
     "application": False,
     "installable": True,
     "depends": [
         "mail",
         "account",
+        "sale",
     ],
     "data": [
         "views/mail_compose_message_view.xml",
