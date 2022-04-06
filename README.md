@@ -24,12 +24,12 @@ addon | version | maintainers | summary
 [base_search_mail_content](base_search_mail_content/) | 13.0.1.0.1 |  | Base Search Mail Content
 [email_template_qweb](email_template_qweb/) | 13.0.1.1.0 |  | Use the QWeb templating mechanism for emails
 [fetchmail_thread_default](fetchmail_thread_default/) | 13.0.1.0.0 |  | Post unkonwn messages to an existing thread
-[mail_activity_board](mail_activity_board/) | 13.0.1.0.1 |  | Add Activity Boards
+[mail_activity_board](mail_activity_board/) | 13.0.1.1.0 |  | Add Activity Boards
 [mail_activity_creator](mail_activity_creator/) | 13.0.1.0.0 |  | Show activities creator
 [mail_activity_done](mail_activity_done/) | 13.0.1.0.1 |  | Mail Activity Done
 [mail_activity_form](mail_activity_form/) | 13.0.1.0.0 |  | Define editable and computed sections in mail activity descriptions
 [mail_activity_partner](mail_activity_partner/) | 13.0.1.0.0 |  | Add Partner to Activities
-[mail_activity_team](mail_activity_team/) | 13.0.1.0.2 |  | Add Teams to Activities
+[mail_activity_team](mail_activity_team/) | 13.0.1.1.0 |  | Add Teams to Activities
 [mail_attach_existing_attachment](mail_attach_existing_attachment/) | 13.0.1.0.0 |  | Adding attachment on the object by sending this one
 [mail_attach_existing_attachment_account](mail_attach_existing_attachment_account/) | 13.0.1.0.0 |  | Module to use attach existing attachment for account module
 [mail_autosubscribe](mail_autosubscribe/) | 13.0.1.0.0 |  | Automatically subscribe partners to its company's business documents
@@ -45,7 +45,7 @@ addon | version | maintainers | summary
 [mail_partner_opt_out](mail_partner_opt_out/) | 13.0.1.0.0 |  | Add the partner's email to the blackmailed list
 [mail_preview_audio](mail_preview_audio/) | 13.0.1.0.0 |  | Allow to preview audio files
 [mail_preview_base](mail_preview_base/) | 13.0.1.0.1 |  | Base to add more previewing options
-[mail_restrict_follower_selection](mail_restrict_follower_selection/) | 13.0.1.0.2 |  | Define a domain from which followers can be selected
+[mail_restrict_follower_selection](mail_restrict_follower_selection/) | 13.0.1.1.0 |  | Define a domain from which followers can be selected
 [mail_template_multi_attachment](mail_template_multi_attachment/) | 13.0.1.0.0 |  | Module who allows to generate multi attachments on an email template.
 [mail_tracking](mail_tracking/) | 13.0.1.0.10 |  | Email tracking system for all mails sent
 [mail_tracking_mailgun](mail_tracking_mailgun/) | 13.0.2.0.1 |  | Mail tracking and Mailgun webhooks integration
