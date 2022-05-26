@@ -25,12 +25,12 @@ addon | version | maintainers | summary
 [mail_attach_existing_attachment_account](mail_attach_existing_attachment_account/) | 12.0.1.0.0 |  | Module to use attach existing attachment for account module
 [mail_check_mailbox_size](mail_check_mailbox_size/) | 12.0.1.0.0 | [![eLBati](https://github.com/eLBati.png?size=30px)](https://github.com/eLBati) | Send an email summarizing the current space used by a mailbox
 [mail_debrand](mail_debrand/) | 12.0.2.0.1 | [![pedrobaeza](https://github.com/pedrobaeza.png?size=30px)](https://github.com/pedrobaeza) | Remove Odoo branding in sent emails
-[mail_drop_target](mail_drop_target/) | 12.0.1.1.1 |  | Attach emails to Odoo by dragging them from your desktop
+[mail_drop_target](mail_drop_target/) | 12.0.1.1.2 |  | Attach emails to Odoo by dragging them from your desktop
 [mail_footer_notified_partner](mail_footer_notified_partner/) | 12.0.1.0.0 |  | This module adds the list of notified partners in the footer of notification e-mails sent by Odoo.
 [mail_full_expand](mail_full_expand/) | 12.0.1.0.0 |  | Expand mail in a big window
 [mail_history](mail_history/) | 12.0.1.0.0 |  | Module to see old messages
 [mail_improved_tracking_value](mail_improved_tracking_value/) | 12.0.1.0.0 |  | Improves tracking changed values for certain type of fields.Adds a user-friendly view to consult them.
-[mail_inline_css](mail_inline_css/) | 12.0.1.0.0 |  | Convert style tags in inline style in your mails
+[mail_inline_css](mail_inline_css/) | 12.0.1.0.1 |  | Convert style tags in inline style in your mails
 [mail_notification_custom_subject](mail_notification_custom_subject/) | 12.0.1.0.0 | [![joao-p-marques](https://github.com/joao-p-marques.png?size=30px)](https://github.com/joao-p-marques) | Apply a custom subject to mail notifications
 [mail_optional_autofollow](mail_optional_autofollow/) | 12.0.1.0.0 |  | Choose if you want to automatically add new recipients as followers on mail.compose.message
 [mail_optional_follower_notification](mail_optional_follower_notification/) | 12.0.1.0.0 |  | Choose to notify followers on mail.compose.message
