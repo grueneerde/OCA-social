@@ -23,7 +23,6 @@ class MailTrackingValue(models.Model):
     )
     model = fields.Char(
         related='mail_message_id.model',
-        store='True',
         string='Model',
     )
 
@@ -34,10 +33,10 @@ class MailTrackingValue(models.Model):
     def _compute_formatted_value(self):
         """ Sets the value formatted field used in the view """
         for record in self:
-            if record.field_type in ('many2many', 'one2many', 'char'):
+            if record.field_type in ('many2many', 'one2many', 'many2one', 'char', 'selection'):
                 record.new_value_formatted = record.new_value_char
                 record.old_value_formatted = record.old_value_char
-            elif record.field_type == 'integer':
+            elif record.field_type in ('integer', 'boolean'):
                 record.new_value_formatted = str(record.new_value_integer)
                 record.old_value_formatted = str(record.old_value_integer)
             elif record.field_type == 'float':
@@ -46,13 +45,15 @@ class MailTrackingValue(models.Model):
             elif record.field_type == 'monetary':
                 record.new_value_formatted = str(record.new_value_monetary)
                 record.old_value_formatted = str(record.old_value_monetary)
-            elif record.field_type == 'datetime':
+            elif record.field_type in ('datetime', 'date'):
                 record.new_value_formatted = str(record.new_value_datetime)
                 record.old_value_formatted = str(record.old_value_datetime)
             elif record.field_type == 'text':
                 record.new_value_formatted = record.new_value_text
                 record.old_value_formatted = record.old_value_text
-
+            else:
+                record.new_value_formatted = 'Unknown field type'
+                record.old_value_formatted = 'Unknown field type'
     @api.model
     def create_tracking_values(self, initial_value, new_value,
                                col_name, col_info, track_sequence):
