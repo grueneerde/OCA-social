@@ -3,11 +3,12 @@
 # License AGPL-3.0 or later (http://www.gnu.org/licenses/agpl.html).
 {
     "name": "QWeb for email templates",
-    "version": "10.0.1.0.0",
+    "version": "10.0.1.0.1",
     "author": "Therp BV,Odoo Community Association (OCA)",
     "license": "AGPL-3",
     "category": "Marketing",
     "summary": "Use the QWeb templating mechanism for emails",
+    'website': 'https://github.com/OCA/social',
     "depends": [
         'mail',
     ],

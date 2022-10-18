@@ -6,10 +6,10 @@
     'name': 'Mail As Letter',
     'summary': """
         This module allows to download a mail message as a pdf letter.""",
-    'version': '10.0.1.0.0',
+    'version': '10.0.1.0.1',
     'license': 'AGPL-3',
     'author': 'ACSONE SA/NV,Odoo Community Association (OCA)',
-    'website': 'https://acsone.eu/',
+    'website': 'https://github.com/OCA/social',
     'depends': [
         'mail',
     ],
