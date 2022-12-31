@@ -42,6 +42,7 @@ addon | version | maintainers | summary
 [mail_layout_force](mail_layout_force/) | 14.0.1.0.0 | [![ivantodorovich](https://github.com/ivantodorovich.png?size=30px)](https://github.com/ivantodorovich) | Force a mail layout on selected email templates
 [mail_layout_preview](mail_layout_preview/) | 14.0.1.0.1 |  | Preview email templates in the browser
 [mail_notification_custom_subject](mail_notification_custom_subject/) | 14.0.1.0.0 | [![joao-p-marques](https://github.com/joao-p-marques.png?size=30px)](https://github.com/joao-p-marques) | Apply a custom subject to mail notifications
+[mail_notification_with_history](mail_notification_with_history/) | 14.0.1.0.0 | [![TDu](https://github.com/TDu.png?size=30px)](https://github.com/TDu) | Add the previous chatter discussion into new email notifications.
 [mail_optional_autofollow](mail_optional_autofollow/) | 14.0.1.0.1 |  | Choose if you want to automatically add new recipients as followers on mail.compose.message
 [mail_optional_follower_notification](mail_optional_follower_notification/) | 14.0.1.0.0 |  | Choose to notify followers on mail.compose.message
 [mail_outbound_static](mail_outbound_static/) | 14.0.2.0.0 |  | Allows you to configure the from header for a mail server.
@@ -52,6 +53,7 @@ addon | version | maintainers | summary
 [mail_restrict_follower_selection](mail_restrict_follower_selection/) | 14.0.1.0.0 |  | Define a domain from which followers can be selected
 [mail_restrict_send_button](mail_restrict_send_button/) | 14.0.1.1.0 |  | Security for Send Message Button on Chatter Area
 [mail_send_copy](mail_send_copy/) | 14.0.1.0.1 |  | Send to you a copy of each mail sent by Odoo
+[mail_server_by_user](mail_server_by_user/) | 14.0.1.0.0 | [![ChrisOForgeFlow](https://github.com/ChrisOForgeFlow.png?size=30px)](https://github.com/ChrisOForgeFlow) | Email Server By User
 [mail_show_follower](mail_show_follower/) | 14.0.1.1.0 |  | Show CC document followers in mails.
 [mail_tracking](mail_tracking/) | 14.0.2.0.3 |  | Email tracking system for all mails sent
 [mail_tracking_mailgun](mail_tracking_mailgun/) | 14.0.2.0.0 |  | Mail tracking and Mailgun webhooks integration
