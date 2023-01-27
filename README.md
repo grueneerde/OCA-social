@@ -34,7 +34,7 @@ addon | version | maintainers | summary
 [mail_autosubscribe](mail_autosubscribe/) | 14.0.1.0.0 |  | Automatically subscribe partners to its company's business documents
 [mail_chatter_thread_colour](mail_chatter_thread_colour/) | 14.0.1.0.0 |  | Allow to change the colour of threads
 [mail_debrand](mail_debrand/) | 14.0.2.2.2 | [![pedrobaeza](https://github.com/pedrobaeza.png?size=30px)](https://github.com/pedrobaeza) [![joao-p-marques](https://github.com/joao-p-marques.png?size=30px)](https://github.com/joao-p-marques) | Remove Odoo branding in sent emails Removes anchor <a href odoo.com togheder with it's parent ( for powerd by) form all the templates removes any 'odoo' that are in tempalte texts > 20characters
-[mail_drop_target](mail_drop_target/) | 14.0.1.0.1 |  | Attach emails to Odoo by dragging them from your desktop
+[mail_drop_target](mail_drop_target/) | 14.0.1.0.2 |  | Attach emails to Odoo by dragging them from your desktop
 [mail_filter_adressee_by_contact](mail_filter_adressee_by_contact/) | 14.0.1.1.0 | [![Kev-Roche](https://github.com/Kev-Roche.png?size=30px)](https://github.com/Kev-Roche) | Adresses filter by partner contacts and users
 [mail_full_expand](mail_full_expand/) | 14.0.1.0.0 |  | Expand mail in a big window
 [mail_improved_tracking_value](mail_improved_tracking_value/) | 14.0.1.0.0 |  | Improves tracking changed values for certain type of fields.Adds a user-friendly view to consult them.
@@ -55,9 +55,9 @@ addon | version | maintainers | summary
 [mail_send_copy](mail_send_copy/) | 14.0.1.0.1 |  | Send to you a copy of each mail sent by Odoo
 [mail_server_by_user](mail_server_by_user/) | 14.0.1.0.0 | [![ChrisOForgeFlow](https://github.com/ChrisOForgeFlow.png?size=30px)](https://github.com/ChrisOForgeFlow) | Email Server By User
 [mail_show_follower](mail_show_follower/) | 14.0.1.1.0 |  | Show CC document followers in mails.
-[mail_tracking](mail_tracking/) | 14.0.2.0.3 |  | Email tracking system for all mails sent
-[mail_tracking_mailgun](mail_tracking_mailgun/) | 14.0.2.0.0 |  | Mail tracking and Mailgun webhooks integration
-[mail_tracking_mass_mailing](mail_tracking_mass_mailing/) | 14.0.1.0.1 |  | Improve mass mailing email tracking
+[mail_tracking](mail_tracking/) | 14.0.2.1.0 |  | Email tracking system for all mails sent
+[mail_tracking_mailgun](mail_tracking_mailgun/) | 14.0.2.1.0 |  | Mail tracking and Mailgun webhooks integration
+[mail_tracking_mass_mailing](mail_tracking_mass_mailing/) | 14.0.1.1.0 |  | Improve mass mailing email tracking
 [mass_mailing_company_newsletter](mass_mailing_company_newsletter/) | 14.0.1.0.1 | [![ivantodorovich](https://github.com/ivantodorovich.png?size=30px)](https://github.com/ivantodorovich) | Easily manage partner's subscriptions to your main mailing list.
 [mass_mailing_contact_partner](mass_mailing_contact_partner/) | 14.0.1.0.0 | [![ivantodorovich](https://github.com/ivantodorovich.png?size=30px)](https://github.com/ivantodorovich) | Links mailing.contacts with res.partners.
 [mass_mailing_custom_unsubscribe](mass_mailing_custom_unsubscribe/) | 14.0.1.0.0 |  | Know and track (un)subscription reasons, GDPR compliant
