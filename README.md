@@ -31,7 +31,7 @@ addon | version | maintainers | summary
 [mail_attach_existing_attachment](mail_attach_existing_attachment/) | 16.0.1.0.1 |  | Adding attachment on the object by sending this one
 [mail_autosubscribe](mail_autosubscribe/) | 16.0.1.0.0 |  | Automatically subscribe partners to its company's business documents
 [mail_composer_cc_bcc](mail_composer_cc_bcc/) | 16.0.1.0.1 | [![hailangvn2023](https://github.com/hailangvn2023.png?size=30px)](https://github.com/hailangvn2023) | This module enables sending mail to CC and BCC partners in mail composer form.
-[mail_debrand](mail_debrand/) | 16.0.1.0.1 | [![pedrobaeza](https://github.com/pedrobaeza.png?size=30px)](https://github.com/pedrobaeza) [![joao-p-marques](https://github.com/joao-p-marques.png?size=30px)](https://github.com/joao-p-marques) | Remove Odoo branding in sent emails Removes anchor <a href odoo.com togheder with it's parent ( for powerd by) form all the templates removes any 'odoo' that are in tempalte texts > 20characters
+[mail_debrand](mail_debrand/) | 16.0.1.0.2 | [![pedrobaeza](https://github.com/pedrobaeza.png?size=30px)](https://github.com/pedrobaeza) [![joao-p-marques](https://github.com/joao-p-marques.png?size=30px)](https://github.com/joao-p-marques) | Remove Odoo branding in sent emails Removes anchor <a href odoo.com togheder with it's parent ( for powerd by) form all the templates removes any 'odoo' that are in tempalte texts > 20characters
 [mail_improved_tracking_value](mail_improved_tracking_value/) | 16.0.1.0.0 |  | Improves tracking changed values for certain type of fields.Adds a user-friendly view to consult them.
 [mail_layout_preview](mail_layout_preview/) | 16.0.1.0.0 |  | Preview email templates in the browser
 [mail_optional_autofollow](mail_optional_autofollow/) | 16.0.1.0.0 |  | Choose if you want to automatically add new recipients as followers on mail.compose.message
@@ -42,7 +42,7 @@ addon | version | maintainers | summary
 [mail_send_confirmation](mail_send_confirmation/) | 16.0.1.0.0 |  | Mail Send Confirmation
 [mail_show_follower](mail_show_follower/) | 16.0.1.0.1 | [![yajo](https://github.com/yajo.png?size=30px)](https://github.com/yajo) | Show CC document followers in mails.
 [mail_template_substitute](mail_template_substitute/) | 16.0.1.0.0 |  | This module allows to create substitution rules for mail templates.
-[mail_tracking](mail_tracking/) | 16.0.1.0.1 |  | Email tracking system for all mails sent
+[mail_tracking](mail_tracking/) | 16.0.1.0.3 |  | Email tracking system for all mails sent
 [mail_tracking_mailgun](mail_tracking_mailgun/) | 16.0.1.0.0 |  | Mail tracking and Mailgun webhooks integration
 [mail_tracking_mass_mailing](mail_tracking_mass_mailing/) | 16.0.1.0.0 |  | Improve mass mailing email tracking
 [mass_mailing_contact_active](mass_mailing_contact_active/) | 16.0.1.0.0 |  | Adds active feature on mailing list contact and subscriptions
