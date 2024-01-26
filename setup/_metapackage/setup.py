@@ -9,6 +9,7 @@ setuptools.setup(
     version=version,
     install_requires=[
         'odoo-addon-base_search_mail_content>=15.0dev,<15.1dev',
+        'odoo-addon-base_user_signature>=15.0dev,<15.1dev',
         'odoo-addon-email_template_qweb>=15.0dev,<15.1dev',
         'odoo-addon-fetchmail_mail_activity_team_activity>=15.0dev,<15.1dev',
         'odoo-addon-mail_activity_board>=15.0dev,<15.1dev',
@@ -20,6 +21,7 @@ setuptools.setup(
         'odoo-addon-mail_autosubscribe>=15.0dev,<15.1dev',
         'odoo-addon-mail_composer_cc_bcc>=15.0dev,<15.1dev',
         'odoo-addon-mail_debrand>=15.0dev,<15.1dev',
+        'odoo-addon-mail_drop_target>=15.0dev,<15.1dev',
         'odoo-addon-mail_layout_force>=15.0dev,<15.1dev',
         'odoo-addon-mail_layout_preview>=15.0dev,<15.1dev',
         'odoo-addon-mail_notification_custom_subject>=15.0dev,<15.1dev',
