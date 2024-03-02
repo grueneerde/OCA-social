@@ -29,7 +29,7 @@ addon | version | maintainers | summary
 [mail_activity_reminder](mail_activity_reminder/) | 16.0.1.0.0 |  | Reminder notifications about planned activities
 [mail_activity_team](mail_activity_team/) | 16.0.1.0.0 |  | Add Teams to Activities
 [mail_attach_existing_attachment](mail_attach_existing_attachment/) | 16.0.1.1.0 |  | Adding attachment on the object by sending this one
-[mail_autosubscribe](mail_autosubscribe/) | 16.0.1.0.0 |  | Automatically subscribe partners to its company's business documents
+[mail_autosubscribe](mail_autosubscribe/) | 16.0.1.0.1 |  | Automatically subscribe partners to its company's business documents
 [mail_composer_cc_bcc](mail_composer_cc_bcc/) | 16.0.2.0.0 | [![hailangvn2023](https://github.com/hailangvn2023.png?size=30px)](https://github.com/hailangvn2023) | This module enables sending mail to CC and BCC partners in mail composer form.
 [mail_composer_cc_bcc_account](mail_composer_cc_bcc_account/) | 16.0.2.0.0 | [![hailangvn2023](https://github.com/hailangvn2023.png?size=30px)](https://github.com/hailangvn2023) | This module enables sending mail to CC and BCC partners for invoices.
 [mail_debrand](mail_debrand/) | 16.0.1.0.2 | [![pedrobaeza](https://github.com/pedrobaeza.png?size=30px)](https://github.com/pedrobaeza) [![joao-p-marques](https://github.com/joao-p-marques.png?size=30px)](https://github.com/joao-p-marques) | Remove Odoo branding in sent emails Removes anchor <a href odoo.com togheder with it's parent ( for powerd by) form all the templates removes any 'odoo' that are in tempalte texts > 20characters
@@ -50,6 +50,7 @@ addon | version | maintainers | summary
 [mail_tracking_mailgun](mail_tracking_mailgun/) | 16.0.1.0.0 |  | Mail tracking and Mailgun webhooks integration
 [mail_tracking_mass_mailing](mail_tracking_mass_mailing/) | 16.0.1.0.0 |  | Improve mass mailing email tracking
 [mass_mailing_contact_active](mass_mailing_contact_active/) | 16.0.1.0.0 |  | Adds active feature on mailing list contact and subscriptions
+[mass_mailing_custom_unsubscribe](mass_mailing_custom_unsubscribe/) | 16.0.1.0.0 |  | Know and track (un)subscription reasons, GDPR compliant
 [mass_mailing_event_registration_exclude](mass_mailing_event_registration_exclude/) | 16.0.1.0.0 |  | Link mass mailing with event for excluding recipients
 [mass_mailing_list_dynamic](mass_mailing_list_dynamic/) | 16.0.1.0.0 |  | Mass mailing lists that get autopopulated
 [mass_mailing_partner](mass_mailing_partner/) | 16.0.1.0.0 |  | Link partners with mass-mailing
