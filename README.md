@@ -7,6 +7,10 @@
 
 <!-- /!\ do not modify above this line -->
 
+# BT Customizations
+Open OCA PRs merged
+- (https://github.com/OCA/social/pull/1234) mail_send_confirmation
+
 # social
 
 TODO: add repo description.
