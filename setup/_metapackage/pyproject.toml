@@ -1,6 +1,6 @@
 [project]
 name = "odoo-addons-oca-social"
-version = "17.0.20241021.0"
+version = "17.0.20241028.0"
 dependencies = [
     "odoo-addon-base_search_mail_content>=17.0dev,<17.1dev",
     "odoo-addon-mail_activity_board>=17.0dev,<17.1dev",
@@ -24,6 +24,7 @@ dependencies = [
     "odoo-addon-mail_tracking_mass_mailing>=17.0dev,<17.1dev",
     "odoo-addon-mass_mailing_partner>=17.0dev,<17.1dev",
     "odoo-addon-mass_mailing_resend>=17.0dev,<17.1dev",
+    "odoo-addon-mute_notification_user_autosubscribe>=17.0dev,<17.1dev",
 ]
 classifiers=[
     "Programming Language :: Python",
