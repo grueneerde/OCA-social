@@ -1,7 +1,8 @@
 [project]
 name = "odoo-addons-oca-social"
-version = "18.0.20241028.0"
+version = "18.0.20241104.0"
 dependencies = [
+    "odoo-addon-mail_notification_with_history==18.0.*",
     "odoo-addon-mail_thread_create_nolog==18.0.*",
 ]
 classifiers=[
