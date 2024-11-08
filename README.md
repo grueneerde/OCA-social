@@ -53,6 +53,7 @@ addon | version | maintainers | summary
 [mail_print](mail_print/) | 15.0.1.1.0 |  | Print messages from the chatter of any document.
 [mail_quoted_reply](mail_quoted_reply/) | 15.0.1.0.3 |  | Make a reply using a message
 [mail_restrict_follower_selection](mail_restrict_follower_selection/) | 15.0.1.0.0 |  | Define a domain from which followers can be selected
+[mail_save_as_template_security](mail_save_as_template_security/) | 15.0.1.0.0 | [![tisho99](https://github.com/tisho99.png?size=30px)](https://github.com/tisho99) | Restrict save as new template button from the send email wizard
 [mail_send_copy](mail_send_copy/) | 15.0.1.0.0 |  | Send to you a copy of each mail sent by Odoo
 [mail_show_follower](mail_show_follower/) | 15.0.1.4.0 | [![yajo](https://github.com/yajo.png?size=30px)](https://github.com/yajo) | Show CC document followers in mails.
 [mail_tracking](mail_tracking/) | 15.0.3.1.0 |  | Email tracking system for all mails sent
